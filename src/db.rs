@@ -24,7 +24,3 @@ async fn main() -> Result<(), mongodb::error::Error> {
     
     Ok(())
 }
-
-pub fn get_name(){
-    println!("NO");
-}
